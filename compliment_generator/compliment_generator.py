@@ -27,7 +27,7 @@ while not done:
         phrase = random.choice(phrases)
 
         if len(used) == len(phrases):
-            phrase = "Sorry, Anna. I am all out of phrases :(\nTher will be more!\nLove you <3"
+            phrase = "Sorry. I am all out of phrases :(\nTher will be more!"
             done = 1
 
     used.append(phrase)
