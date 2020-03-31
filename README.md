@@ -6,3 +6,5 @@ Sets up a listening socket on port 1337, someone connects and it spits them out 
 
 ## Remote Madlibs
 Let a friend connect to your device and have fun doing random madlibs. (Made to entertain my girlfriend Part II)
+
+To add your own madlib, follow the format in madlibs.txt :)
